@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    border: 2px solid plum;
+    color: rgb(255, 192, 245);
+}
+
+h2{
+    color: pink;
+}
+
+p{
+    color:blueviolet
+}
